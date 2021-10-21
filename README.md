@@ -2,7 +2,7 @@
 
 # **Colleen Fimister**✨
 
-#### Aurora, CO 80013 | Phone: 936.225.2436 | Email: carlin.colleen@gmail.com
+#### Phone: 936.225.2436 | Aurora, CO 80013
 
 <a href="https://carlincb.github.io/Portfolio/" target="_blank" alt="Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
 <a href="https://www.linkedin.com/in/colleen-fimister-740434213" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
