@@ -1,6 +1,6 @@
 <div align="center">
 
-![1](images/purple.png)
+![1](images/green.png)
 
 # **Colleen Fimister**✨
 
