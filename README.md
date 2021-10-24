@@ -2,7 +2,7 @@
 
 ![1](images/green.png)
 
-# **Colleen Fimister**✨
+# **Colleen Fimister**
 
 #### Phone: 936.225.2436 | Aurora, CO 80013
 
