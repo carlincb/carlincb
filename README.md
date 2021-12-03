@@ -23,11 +23,11 @@ My name is Colleen Fimister and I am an aspiring Software Developer. I have a st
 
 Want to see my resume? [Click here!](https://drive.google.com/file/d/1zu3LXt-CAsMwPP3HDCk82cXAReCLmJb0/view?usp=sharing)
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <p>
-  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlincb&layout=compact&theme=algolia&langs_count=8&hide=CSS,html" />
   <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=carlincb&theme=algolia"/>
+  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlincb&layout=compact&theme=algolia&langs_count=8&hide=CSS,html" />
 </p>
 
 ## 🧰 Toolbox
