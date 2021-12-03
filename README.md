@@ -26,8 +26,8 @@ Want to see my resume? [Click here!](https://drive.google.com/file/d/1zu3LXt-CAs
 ## &#x1f4c8; My GitHub Stats
 
 <p>
-  <img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlincb&layout=compact&theme=algolia&langs_count=8&hide=CSS,html" />
-  <img width="360em" src="https://github-readme-stats.vercel.app/api?username=carlincb&theme=algolia"/>
+  <img width="360em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlincb&layout=compact&theme=algolia&langs_count=8&hide=CSS,html" />
+  <img width="360em" height="180em" src="https://github-readme-stats.vercel.app/api?username=carlincb&theme=algolia"/>
 </p>
 
 ---
