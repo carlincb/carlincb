@@ -8,8 +8,8 @@
 
 <a href="https://carlincb.github.io/Portfolio/" target="_blank" alt="Portfolio"><img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=portfolio-95&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/colleen-fimister-740434213" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:carlin.colleen@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1zu3LXt-CAsMwPP3HDCk82cXAReCLmJb0/view?usp=sharing" target="_blank" alt="Resume"><img src="	https://img.shields.io/badge/Resume-12100E?style=for-the-badge&logo=resume&logoColor=white"></a>
+<a href="mailto:carlin.colleen@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
