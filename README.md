@@ -15,7 +15,7 @@
 
 ## 📝 About Me
 
-My name is Colleen Fimister and I am an aspiring Software Developer. I have a strong background in management, coaching, and customer service. I am currently earning a certificate in Full Stack Web Development from the University of Denver Coding Boot Camp. My strengths in communication, teamwork, conflict resolution, and problem-solving are part of the skillset I bring to any team. I am highly driven and organized and I can be relied upon to get the job done!
+My name is Colleen Fimister and I am a Software Engineer. I am also an experienced Operations and Administrative Professional and Editor. I have a strong background in management, coaching, customer service, writing, and education. I am currently earning a certificate in Full Stack Web Development from the University of Denver Coding Boot Camp. My strengths in communication, teamwork, conflict resolution, problem-solving, and attention to detail are part of the skillset I bring to any team. I am highly driven and organized and I can be relied upon to get the job done!
 
 ## &#x1f4c8; GitHub Stats
 
