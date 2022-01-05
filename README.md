@@ -7,7 +7,7 @@
 #### Phone: 936.225.2436 | Aurora, CO 80013
 
 <a href="https://carlincb.github.io/Portfolio/" target="_blank" alt="Portfolio"><img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=portfolio-95&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/colleen-fimister-740434213" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/colleen-fimister" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1zu3LXt-CAsMwPP3HDCk82cXAReCLmJb0/view?usp=sharing" target="_blank" alt="Resume"><img src="https://img.shields.io/badge/Resume-12100E?style=for-the-badge&logo=resume&logoColor=white"></a>
 <a href="mailto:carlin.colleen@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
@@ -22,8 +22,8 @@ My name is Colleen Fimister and I am a Software Engineer. I am also an experienc
 ![My Page Visitors](https://visitor-badge.glitch.me/badge?page_id=carlincb.visitor-badge&left_color=blue&right_color=gray&left_text=My%20Page%20Visitors)
 
 <p>
-  <img width="400em" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=carlincb&theme=cobalt"/>
-  <img width="400em" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlincb&layout=compact&theme=cobalt&langs_count=8"/>
+  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=carlincb&theme=cobalt"/>
+  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlincb&layout=compact&theme=cobalt&langs_count=8"/>
 </p>
 
 ## 🧰 Toolbox
