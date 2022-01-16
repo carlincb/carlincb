@@ -1,6 +1,8 @@
 <div align="center">
 
-![1](images/green.png)
+![1](images/computer.png)
+
+# **Colleen Fimister**
 
 #### Phone: 936.225.2436 | Aurora, CO 80013
 
