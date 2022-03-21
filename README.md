@@ -22,8 +22,6 @@ Bachelor’s in History from Thomas Edison State University. Highly driven and o
 
 ## &#x1f4c8; GitHub Stats
 
-![My Page Visitors](https://visitor-badge.glitch.me/badge?page_id=carlincb.visitor-badge&left_color=blue&right_color=gray&left_text=My%20Page%20Visitors)
-
 <p>
   <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=carlincb&theme=cobalt"/>
   <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlincb&layout=compact&theme=cobalt&langs_count=8"/>
