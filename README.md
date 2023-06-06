@@ -23,7 +23,6 @@ Bachelor’s in History from Thomas Edison State University. Highly driven and o
 ## &#x1f4c8; GitHub Stats
 
 <p>
-  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=carlincb&theme=cobalt"/>
   <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlincb&layout=compact&theme=cobalt&langs_count=8"/>
 </p>
 
